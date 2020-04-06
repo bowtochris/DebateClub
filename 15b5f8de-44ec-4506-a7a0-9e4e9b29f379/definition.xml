@@ -41,13 +41,16 @@
 		<groupaction menu="Who's Judge?" shortcut="ctrl+W" execute="whosjudge" />
 		<groupaction menu="Become Debater" shortcut="ctrl+D" execute="becomedebater" />
 		<groupaction menu="Who are the Debaters?" shortcut="ctrl+Q" execute="whosdebater" />
-        <cardaction menu="Submit" execute="submit" />
-        <cardaction menu="Discard" execute="discard" />
+		<groupaction menu="List Submission" shortcut="ctrl+L" execute="listSubmissions" showIf="isJudge"/>
+        <cardaction menu="Submit Card" execute="submit" />
+        <cardaction menu="Discard Card" execute="discard" />
 	</table>
 	<player summary="Score:{#Score}">
 		<counter name="Score" icon="counters/score.png" />
-		<hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" icon="groups/hand.png"/>
-		<group name="Submissions" shortcut="ctrl+S" visibility="me" ordered="False" icon="groups/hand.png"/>
+		<hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" icon="groups/hand.png">
+		<cardaction menu="Submit Card" execute="submit" />
+		</hand>
+		<group name="Submissions" shortcut="ctrl+S" visibility="me" ordered="False" collapsed="False" icon="groups/hand.png"/>
 	</player>
 	<shared>
 		<group name="PromptDeck" visibility="none" icon="groups/deck.png">
