@@ -111,3 +111,12 @@ def discard(card, x = 0, y = 0):
   fromText = " from the table" if src == table else " from their " + src.name
   card.moveTo(shared.Discard)
   notify("{} discards {}{}.".format(me, card, fromText))
+
+def listSubmissions(group, x = 0, y = 0):
+    if isJudge(group, x, y):
+        whisper(','.join(map(lambda x: x.name, me.submissions)))
+
+def isJudge(group, x = 0, y = 0):
+    ret = getGlobalVariable("judge")
+    ret = int(ret)
+    return me._id == ret
