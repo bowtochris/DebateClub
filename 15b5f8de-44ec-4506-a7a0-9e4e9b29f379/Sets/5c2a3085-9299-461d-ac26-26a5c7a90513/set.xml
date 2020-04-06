@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Debate Club Cards" id="5c2a3085-9299-461d-ac26-26a5c7a90513" gameId="15b5f8de-44ec-4506-a7a0-9e4e9b29f379" gameVersion="0.0.0.1" version="0.1">
+	<cards>
+		<card id="5a67143e-616b-4236-8e68-43ad6d6c05d8" name="Ancient">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a6285312-6417-4af0-a04e-2cc3770d137a" name="Average">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="4a646ed1-994a-4f8f-adc3-daaf9fc6a93f" name="Bad">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="523abf3a-64a9-46b2-ad49-0c33885272bd" name="Big">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="7e40af18-c0e9-4fb3-a784-9b1270939f75" name="Brave">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a6762383-e286-4949-8571-d9ea9f4fbaa9" name="Bright">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="9b9ac857-60eb-454e-8b40-e929bab24c34" name="Calm">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8891b81a-bf87-4a52-a497-ce4e78c3756c" name="Careful">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="18d1c1a0-bedf-4dad-b2ef-99852396d9d1" name="Cheap">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="c706aaee-92e5-4f80-b6e2-a25ee23c5e75" name="Classy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="dea6823a-e6ca-4aff-9b45-14cace6222f2" name="Clean">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="e29a3e11-4604-4a0b-b662-ea1e263b2dc5" name="Complete">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6d6fcbfa-68e8-42ab-b61f-24083fcbfdfc" name="Complex">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="de7bc63c-15b4-4b00-8ffa-8664fab5f82d" name="Cool">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="58e9e662-3ee1-4793-b800-c2629f57d48c" name="Creepy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="52564eb9-b6c3-4478-b0e9-4529e27ece38" name="Cute">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="f0c6d3b8-f62e-4b19-9cf9-d6dc95abd982" name="Dangerous">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="9b02cc7c-1a69-468f-87bf-3ec74c52f46d" name="Dark">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cbcdd5f6-7ff4-4b9d-9117-6d932654d6cb" name="Deadly">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="0304676a-e902-4026-876e-551c05b6554a" name="Dumb">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="96418f01-1771-446c-8b5f-5cea3cd1125c" name="Evil">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="0abd5de6-3013-422f-83be-4c732552353e" name="Extreme">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="b1d83276-3b99-4e7d-9623-6071e71efa65" name="Famous">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="fcd1462d-cba4-4c86-a2a7-5fcc49cc89ad" name="Fast">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="091c0774-f282-4f84-a23e-e9656e04875c" name="Fat">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="77f17870-c1dc-407b-a2b5-390e97bb445b" name="Fierce">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="b201d8e5-b431-4670-96de-f1221d707180" name="Flat">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6558baed-39a2-4be2-bdf9-6e1019fb1676" name="Floppy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="427f3209-f605-4a27-ab4f-e80339ef1280" name="Fluffy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="4bde73d1-62aa-4511-858c-ba74b07e0ccc" name="Free">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="14913e8f-76ae-4cc1-83c6-389f71244c05" name="Fresh">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6fc8ef11-848f-4a95-8801-877b645e17c4" name="Friendly">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d9a6e381-6c2a-4a3e-a08c-59421eb72831" name="Gentle">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a7e34bd1-8ff6-40ca-9e4e-25afaf4edc78" name="Gloomy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6caa8407-4f87-4c6d-b6b8-77eb367f6096" name="Good">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="786751d5-b475-4efc-89e3-adb90c31e343" name="Greedy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cc0904d4-fbb2-450c-b555-911767a906b4" name="Happy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="b4c56b00-3384-45fb-930f-b572024da592" name="Hard">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="2242671d-3325-4511-9ee3-0ef6ad73abb9" name="Healthy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="3155f5e6-d7a1-4fda-b909-38c7d9488ca3" name="Heavy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="e517bdfc-eb8f-4f84-9e0b-67a3e6ad3938" name="Holy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cdde21e9-2735-4085-a397-993ccd2f92f9" name="Honest">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="fb1af861-3fe5-4b2c-bb9e-c102e81e57e5" name="Hot">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="5f58dc91-01f1-4e6e-bba8-6d2f3f463a42" name="Humble">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="04e65845-af43-4770-9e5c-cfb24d89fe2a" name="Important">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d186a6e6-9494-43a7-9b91-1b58fabc6026" name="Innocent">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="be0e7ced-0348-46af-9757-ea292dbe575a" name="Intelligent">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="1bd16593-3c08-4558-a463-3e9a15e82620" name="Intense">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="07c1ca0b-319b-401b-bfa8-80d880579082" name="Just">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a3dad4ca-1463-44ad-b242-35e0cc3918ff" name="Large">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="ca04f3d2-8f1b-4247-8046-d5da15d97679" name="Lazy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d7ecb919-1abd-4cfe-843a-e026695641d8" name="Long">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="e16cfe88-aec6-4280-b9f7-c51cf7473c9f" name="Loud">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="4bb06089-f7e2-4d8d-a435-f00bd92db67f" name="Loyal">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="073dc7e2-3679-4c2e-96cd-a89748718810" name="Mean">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="f5d55297-cca8-4238-9e1e-9f40cc6d9504" name="Messy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="b0c3c0e6-2c2a-46cb-a0b2-66fb71c419cb" name="Modern">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6ad5f023-1dc7-4122-a207-4097588b3a0d" name="Nasty">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="fee03f0c-644c-4459-a1eb-1d999209fb1a" name="Natural">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a3da7093-5bc5-403d-8a7c-adc1bd04882d" name="Necessary">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="196f57b1-d49b-43d5-a130-41d136c2ab17" name="New">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="42687269-2e27-4ac6-8175-552a07703f4f" name="Nice">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="414a229a-2d1e-461a-a848-9a474fe4d5d3" name="Noble">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="1deddc0a-862d-4c94-a148-468a4c41c3f2" name="Obtuse">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="171cf918-e167-4389-b3ce-57299f5920bc" name="Poor">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="b22044ec-2a78-4017-b886-d1eb8a2b3a59" name="Popular">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="53676744-7141-4643-b860-c946b5ed5f0b" name="Private">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="5122a4a9-122f-4efc-a26c-184b51fc70e0" name="Quiet">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="62f7f6b9-91bd-4c60-b002-4d3f819f291f" name="Rare">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cacbf4b2-74d0-4a40-ab13-6271b14ae510" name="Rich">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d8291ae5-8866-4ce5-ad14-cd87a26deee8" name="Rough">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8cbb3831-410c-47d1-87c3-85eb781bc72c" name="Round">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8f46b70d-aaf4-4626-937f-90000e94aa7a" name="Sad">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="7d78c431-2c63-4a61-be72-78f1f7ae7212" name="Safe">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d585a3ba-d14e-4048-adb0-6e9468beac3c" name="Serious">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="04096d41-8686-4a43-8549-e9067ba39fbe" name="Sharp">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="d5150f9c-e50e-4daf-b866-ae7150550ca2" name="Shiny">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6d28fabc-af77-4458-bf5e-1e45dd3383c3" name="Showy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="936240d9-0539-4553-a659-406ba15ee8a0" name="Silly">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="45fce0bd-4e90-470f-a844-208e350fa8e4" name="Simple">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cece60c1-7119-4332-b954-a0b8b03fbb57" name="Sketchy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="1416a5b8-415b-4faa-8e4c-c31a9ab3611a" name="Slimy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="5baac3d3-9623-47fe-85a1-951850387854" name="Small">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="00aeb708-d681-4d7d-b2c7-07b776306f00" name="Smooth">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="7fec7627-34f6-476f-befe-a8f1e51d3f73" name="Social">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="2dc8c9da-6b79-49d7-970d-29e71b979dd9" name="Soft">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="0913d4d7-2a77-45db-abb9-b25a27a6cf10" name="Solid">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8f87f109-a85a-42c3-8df2-3472b88a8c35" name="Special">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="675dd42c-7ab9-463f-bc90-5ed33752d55d" name="Still">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="3509f741-3d4d-4908-8a73-8ff3195774fc" name="Straight">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="4ffc7c33-6786-4a2e-b319-8849aed55f35" name="Strange">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="4efaca21-43e3-412e-97b4-86e6bbfcc4e5" name="Strong">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="7c59754f-fe9c-4b8a-a828-2be5254a22f4" name="Sweet">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cdce512a-2591-480c-905e-53069fc1d27a" name="Tall">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6ad20da3-307a-4b4a-b0a7-a5c6ef5a4f5c" name="Tasty">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8cd37471-d371-4d90-837b-601c4f1c4531" name="Tired">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="fcbea454-dab0-4374-9465-7f7a0ab3504a" name="Tough">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="8b6426ca-02fe-476d-a340-06ca311676c6" name="Tragic">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="a28b11d0-b3ac-4f33-9844-89ff4faadfa3" name="Ugly">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="cc365d5a-53a0-4994-9e45-b04e8e75da0f" name="Vicious">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="6a3c2796-896f-4d42-9b06-fa9634d110cc" name="Vivid">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="f0cfbf13-6620-4ac1-b501-fd6a90c1e81e" name="Weak">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="808b1cb9-08f4-4f0b-aa29-a055267554b1" name="Wet">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="939acc3b-5436-4413-8263-4c3fe6864c85" name="Wild">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="7cc2b8c7-15a8-438e-909e-45bb6b7227b3" name="Wise">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="aad61312-faf4-450a-aef6-40396b44d64c" name="Worldly">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="5b6b306c-9eac-425e-9328-1584a6763a0a" name="Yappy">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="765a674d-3d8a-47b6-9001-46d19037f514" name="Zany">
+			<property name="Type" value="Prompt"/>
+		</card>
+		<card id="571af507-8c55-4f22-85e0-4c896720e602" name="Accountants">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="80d612ca-b728-4030-8b59-3a2769f996fe" name="Action Movies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bfbc03e3-edf1-4146-a9d6-7c82f20034b4" name="Activists">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c789f8b5-8519-4765-950d-7234bbe42ebd" name="Actors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="93568e1f-e9d6-4c13-8dee-e0107f833931" name="Adults">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="220345a2-5ad6-49df-82c4-08636622c1af" name="Aliens">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="60f575ef-1016-47ab-96b2-9ec1a8964aaf" name="Alleys">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2acfbf8b-9dfe-4850-8724-28fcf197246f" name="Amounts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="340d81e3-3171-4be6-a46f-4e950c70b896" name="Ancestors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="54d78dfa-b8a6-42b3-a176-a7086f66f346" name="Animals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a537f76a-df1d-4867-a545-fc678d462644" name="Antelopes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7a163fed-b1b5-4ee1-8959-0ca6d63caf69" name="Ants">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="630f557d-87be-4c32-9ef3-f4a7bc1b3169" name="Archaeologists">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="776f8c1d-e816-4c4a-9821-f48c6c55d438" name="Astronauts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="941313d7-3542-4f88-9805-5392d28f23e2" name="Attacks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f5e65005-9e57-4f1c-bbfe-d14c138039a5" name="Attics">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f7f39150-a49c-4f77-8c8d-43fd0465f02c" name="Auctions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="786ae63a-4eb4-419b-8c7a-52b08072a6d5" name="Badgers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="31e3614e-d9d3-4281-b6e9-7c90cb18bb0e" name="Bankers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a07bfda9-11d1-47f4-b42b-ca757c9958b5" name="Banks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="25367ee4-af45-4094-99d5-a69a8a613352" name="Barriers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d5b9acce-48a0-4292-af16-4665b30f30d0" name="Basements">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ac595600-0a14-480c-9902-9a0a0b1cbd27" name="Bathrooms">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bfa65cb1-0998-45ee-85c6-1e88e4a9b0e6" name="Beans">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="98969a8b-0056-4b77-99b4-fcd6c34b3dce" name="Beds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="44b0c10d-ba4e-498e-bda8-7421f4dcbf7c" name="Beers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ce6f5256-2fd7-4f05-973f-93820eef636c" name="Bills">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5d9d12b4-f5ee-4f9d-8ae5-74914324729a" name="Boats">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7f9c909b-97b9-45b8-9043-4bf3b5da2f1a" name="Bombs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2f6ad6d1-7e48-40cd-bb85-98d1b9441d8c" name="Bones">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6ff06191-6b02-4e1f-b3b8-25fd11a50aad" name="Borders">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bd167719-de09-4a9d-876b-b5844f8dc87b" name="Boxers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8da7932e-610f-41a2-852d-5216f1f40fb5" name="Boys">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e6232922-c771-4c03-9771-e4a5daaf2671" name="Bricks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="dd2e063b-3d82-401f-a782-36b2e26aea04" name="Buildings">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="76b00636-df4d-4d84-a954-ac4a66f9d917" name="Bullets">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8cf30242-f0ed-4f3a-9844-758883324815" name="Bullies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="171a3e07-d683-462a-922c-bb1b966df6f3" name="Butlers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b39e78a3-9ebb-4d54-a38f-4a831fee2c4f" name="Buttons">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f6d7f50d-4ba3-48b0-ac21-df4695ca9a61" name="Cacti">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7013104c-efbc-4233-8980-92f066c85ba4" name="Cakes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a2eb457a-4310-4524-beeb-a79235e27d75" name="Candidates">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4d783ce1-b6a8-4da8-bd0b-1c1b97f3664d" name="Cans">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8d2f56cd-6040-4f22-95de-e87a0fd4d974" name="Cardboard Boxes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="92c91254-ee83-4de0-a676-47883d32010c" name="Cars">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4d349c7c-cdd5-48b3-8aa5-ac2d8859c53e" name="Cashiers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="88627fd7-e9a7-45e6-a391-7d438f9835a0" name="Cat Burglars">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9e758f39-3533-4779-acd9-6e218c922e8f" name="Cats">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a7d50e1c-617e-45c5-913f-a06f4e27cbd6" name="Ceasefires">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="859899f8-afa3-4e83-bf97-bc552447f312" name="Centuries">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="cd133046-ce65-4273-9e6a-0fd7575ef0e3" name="CEOs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1ecefa44-f456-4ff8-8f2d-e9ab4b72be2d" name="Chairs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ecbf1862-6996-4289-89de-150d02b40cf8" name="Champions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9d960432-b95f-4853-af07-597db35b9e99" name="Cheer Leaders">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="803e2cd2-c3d2-44db-bf65-b498776c0064" name="Cheetahs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a34632d1-e5a3-4662-9102-862c5210c4b2" name="Chiefs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6cc1b676-cca1-4a65-93cf-8c498c39a143" name="Children">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9dfef3ff-9df3-4b0b-af33-b0701556d3c8" name="Chocolates">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b35c7b7c-897f-4f25-8319-0d4e2882535c" name="Churches">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3a6b9d3b-4b33-46ba-bf9f-0cbb51cfca9a" name="Cliches">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="26ed33d0-6210-49f0-abe4-cf3a62edd52f" name="Clowns">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e83991a8-5fff-4647-a72a-a2be77c7e86c" name="Coalitions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d632d638-db97-460f-8bd1-f718eedcf514" name="Cobwebs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5a92396e-62fa-44ba-9ad5-7897b6adaf48" name="Coins">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bbcbc5cd-c329-44fb-b5fc-d224b939671d" name="Colleges">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="748dc5a3-b767-46cf-bf35-702d33c98817" name="Committees">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="82a5942a-4cdd-457e-8c4c-52a253794bc0" name="Compromises">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3e01e7e3-b5a3-423f-9832-3c35d1fc4801" name="Computers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="69fa3c9a-3dbc-4e3a-9ade-0335122e4653" name="Concrete Slabs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e7c6f77d-83c3-478a-9dec-ac9fb657de21" name="Conditions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ac239a71-f655-41a4-a1b7-5e7fe26926a1" name="Conquistadors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="add11d1b-ad19-47f7-9cf1-9cda54630975" name="Cops">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5428a320-8b8f-4c08-9790-055b80c7e855" name="Criminals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="fb42dd18-3cab-47d4-9cbf-9116068023ef" name="Crowds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bbe92645-0751-4a56-b4dd-b228cdfa9ad0" name="Cultures">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c95077ac-c521-47c1-8ee3-4103fccc1282" name="Custodian">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="63da3cc7-589f-4fc9-bfef-cef3af259980" name="Days">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="42ea23ce-b94f-43d8-ab6b-ebb278812820" name="Deaths">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="252d1a1d-b703-45a9-8806-727a8f5bde1b" name="Debates">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4769c0a7-8a77-49f6-8961-d94a3864eeb1" name="Debts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9cb2b550-7473-464b-917c-d1433f0154e6" name="Defeats">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8e1e13fa-a165-4b8f-8278-5d03a1a7b7c1" name="Deficits">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="87d00b16-d2c9-488e-ad8f-da46c02f80bb" name="Detectives">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="09037514-e91d-4f47-9596-849339a5393b" name="Diamonds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6e7ac396-11a1-4377-9205-40599539e384" name="Dictators">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5de22e73-ce6d-40d8-bda4-f38c17d2d6e5" name="Diets">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="11037eec-683f-4076-b710-9bf0af52c519" name="Diseases">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="0f828421-2a3d-402d-9e66-ecd7de7e34c1" name="Divorces">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a7bb7d84-1463-4dbb-a8f7-ab2b5232b5cf" name="Doctors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d2b90a6d-08d5-4853-a77a-21183a20008d" name="Dogs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3582ceea-0df2-4b44-9bf5-37a18ddf90a7" name="Dollars">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="db96f6cc-a599-4b28-b176-0f415ee869ba" name="Dreams">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="37a5ac2f-7956-490b-8cd0-996a8ecea97a" name="Dumbbells">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6f19f175-2eb4-4471-aaaf-8e6ceb666bf5" name="Economists">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7c35f805-1a16-485b-a3b8-614f50713459" name="Efforts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9a4c29e3-b3be-4d44-a65c-9bb0c3d411ee" name="Eggs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="57013b7b-4a8a-46a2-9d67-4866d03d2765" name="Elephants">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="be81359d-256d-498c-a77e-b042be2c5e3f" name="Emergencies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="781f5407-b956-4d60-82bf-4ca2a551cb54" name="Engineers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="553743dd-848b-4ff0-9c3f-4eb68d39c4f5" name="Engines">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f32d4af8-c04b-4d60-b9cb-c90535f06308" name="Evidences">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="81ef2460-57a3-4947-944c-c5e05ad9d4c5" name="Exercises">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a4343f9e-0932-498b-8165-3a64d87f1674" name="Experiences">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6b3c0b19-8dce-407a-867a-2afe17f157d8" name="Faces">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="afc798fc-5bab-4e72-997b-1fc9bfc5cb48" name="Factories">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e67efc0b-c50d-43a7-899a-6e86daab082c" name="Families">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e03edf8c-9cde-4e76-9fae-dfe39a3e469e" name="Famines">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="408762e0-46cb-4136-87e8-eead213c7374" name="Farmers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b6993bb2-64aa-49cd-bcda-733ee3e4cf34" name="Fathers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="310fa12c-e670-48bb-89d1-b55deea45239" name="Feasts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="82c32ad4-cfff-4e23-bdd1-1151719dc0bd" name="Feathers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d9260055-ece8-4ab6-a373-25edee4bcc2d" name="Fidget Spinners">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a3db30fb-70c1-43a3-85fb-56b31d0067ad" name="Fields">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9977c120-be3b-43f1-b8f7-762bdd410167" name="Firemen">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="53512173-0b90-42e5-ae93-61b03f09b355" name="Fires">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ccb0a7ee-60df-4d90-b4c9-add09537605e" name="Flags">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="497eebc5-6466-4f57-a6a9-ed2ba9fe9ddc" name="Flashlights">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="533ea647-4289-4a1a-82bc-adc43648387f" name="Flounders">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1790206b-f017-42dc-acc4-69225f47658d" name="Flowers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9b77c82c-8ec0-4a00-87bc-e5ac85e2d010" name="Food">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d59c1285-89f4-405f-8a0e-16ef98de15d7" name="Foots">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e150f09c-e7c7-49ed-845b-8d87ebd0b3aa" name="Forests">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="330101bf-97f4-4799-9ce8-523354b47dbc" name="Forks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="34a57a9c-22b7-4d67-b492-f064708ecb8c" name="Friends">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="48994267-3e11-4fed-a6e6-13bf217b4716" name="Frozen Dinners">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d7e9731f-e401-4ffa-a208-658255ff275b" name="Fruits">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="0a962d00-ec63-4932-8d7e-e1ceeb3eea29" name="Funerals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="973f0b4d-2271-4f0e-bacc-7c07dd06913d" name="Fusions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e88c6a7c-7836-47be-8c5a-447fbec88676" name="Games">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="86c38987-2f60-42e7-a22c-352a3f2a547e" name="Gardeners">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c74fef59-4c45-49c5-86e7-d11de899cbe3" name="Geese">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="32382bc6-c48e-43d0-8d7a-b4a6e6fb86dc" name="Giant Otters">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7f03e926-135a-4072-ad6c-e87754be7a25" name="Gifts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5a479faa-e813-4a9f-b6db-b7b2216ae7a0" name="Girls">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="430e9947-c57d-4fbb-94af-593d97675ea4" name="Glasses">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2f7f953c-3361-4319-a291-265ba75879bc" name="Goods">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3359b711-685f-4b69-a1cd-59ef421bf7f0" name="Gorillas">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4a10e24b-d001-41f6-8e5c-28e93a8dc008" name="Guides">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a075f84e-8813-47e4-8956-4dc63517df60" name="Guns">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="eadadb48-ef13-4dc1-9912-467525aa13fe" name="Hamsters">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="75d47d54-662d-495d-a06c-ea1fc78ef677" name="Hearts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b25ecb1c-e9e4-4c4e-be1f-1ebef0bca7d1" name="Homes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6ae13d7e-d1e9-4748-93b8-61878f637cd7" name="Homes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b7a9b7e0-1979-4537-ad2a-3db056433049" name="Hospitals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8df8db4e-27ab-4bb9-9410-a62aafa97a30" name="Hotels">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="61c1a4bb-92ba-4502-8350-741a1f2f39f6" name="Houses">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="09b0d71a-63ad-4673-9b5d-b624b94ef86f" name="Hugs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5ec707ca-b81c-459b-811c-1d91cc107f4a" name="Hurricanes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c3a67ba6-6453-471a-813a-208f7044edec" name="Ice Cubes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="34c68264-7d39-4b2d-996d-7f8ad3d39eba" name="Ingots">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="85e9d776-a370-41d2-aa4c-4d1f4cfca4ce" name="Internet">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a7ed9f62-0974-4f5a-b55a-537815ed1085" name="Islands">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="be6bfac7-62bf-4acd-b7ad-637ee1bd30cd" name="Jobs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e625081d-4e9c-43fb-8e6a-33cdedc8b44b" name="Journalists">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2f016797-2fe0-4e30-9724-b2b7ab3129bd" name="Judges">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d7aedec0-e60d-45ea-bb4d-bc6b2ca8528f" name="Kickballs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a6441264-095f-450d-98ce-af243ae8b625" name="Kinds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7c035700-d806-4998-ab29-018b279df35c" name="Kitchens">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8a7c82ef-7c8b-4f23-abb5-9447a8f0026b" name="Knights">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="952b0bae-421b-45ee-98b1-54a48bec0de6" name="Knives">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d88e4e04-1ee0-42c0-b4ed-c286836a721a" name="Koalas">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="eab82f54-6bec-4b4f-9495-bf2705c9106b" name="Laboratories">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a9f664db-9d34-46f2-b1bf-6c2e3857d499" name="Lakes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5b4963da-15cc-41da-a096-86399552645f" name="Lamps">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f454dfba-8776-4dee-8613-8118e0f6c673" name="Lawyers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a55bc0a7-9999-49c3-91ec-36f293b3b57f" name="Layoffs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9116ff08-6664-4878-beb7-71c9670e9516" name="Lessons">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="da31e947-72b1-485f-ab53-065344dbe83a" name="Letters">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="81a9bdcc-c29e-4e2d-aa5c-4172b9daa50e" name="Libraries">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="34923794-a88b-47ed-8618-705d4d708e9a" name="Lights">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ff7b5b76-284d-4acb-b69f-41acc656fd0c" name="Links">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="170447db-17ff-4c5f-bf48-94d8eff882f3" name="Lions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f7bbe44b-7eea-4142-8d0b-ccf1034c2948" name="Lives">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f07dc530-cc04-41d5-bafe-3b1102459f2c" name="Lungs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="558e365e-0210-480c-9469-134a55263557" name="Machines">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b9cbfaa1-5773-4e78-a0ff-1efb933fbfb2" name="Markets">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="07c4d8ca-ac4f-4684-be77-366a672c2278" name="Mathematical Equations">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d665d916-745b-4719-8803-3c4c3af82afc" name="Meats">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4306abad-4c41-4162-806f-8b965ca294dd" name="Medicines">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e66af9c8-4ff1-48f2-b794-0ec3346948da" name="Metals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3fe7f4cb-1b95-4a59-aa29-db4f81186399" name="Molds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="53eed455-14bb-4d83-9e8f-ab2efc283622" name="Monkeys">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b4300a66-eecd-4d5c-a084-65d3da35f29e" name="Mothers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="df017334-f6a5-497e-93fb-466fcab0aa35" name="Moths">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a77a2e42-3b17-4143-8d70-d6c7505758a8" name="Mountains">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b7c88f4b-90ae-4f72-a675-f7f06eb7a2d8" name="Movies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="36f3cf3e-83da-437f-948b-b3385eef549a" name="Music Albums">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="03ba9d7f-c189-4a66-b69d-ea5cb980ff19" name="Musicians">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="dd80456c-d898-411d-bf53-8aa1cb84d2d5" name="Names">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2c34863a-b9dc-4b5a-ac35-d62f0b83adc0" name="Neighbors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="a317f459-e82e-47c5-970d-61751d0c733d" name="Nights">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3d7fe607-cf01-4d24-9a9a-625981316efd" name="Novels">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c8331365-f037-4f1d-8525-6f0dde62717e" name="Nurses">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bb6b79bd-aed3-4af5-b4e4-cf5b8cb88e1c" name="Nuts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="51f31862-6984-4055-ad9a-284fdd84aa9b" name="Octopuses">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="21d21ef4-ff49-4c3c-9eb9-5449ff13c43d" name="Offices">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="98c6cffd-5a4c-4286-abff-923e1c06f433" name="Opinions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="63f8e5e4-1af4-4bc9-9001-95bfdeba6814" name="Orbits">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ac8ab622-4420-41cf-bffa-f6062b6dbd3a" name="Organisms">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="530c4cb6-806f-49fc-a8d6-96a14bd68c6c" name="Pancakes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e610c9e4-a619-4723-a4a1-df228268c156" name="Pandas">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d50ea2c3-cab3-4ed4-8943-51ebdcfcbd99" name="Pangolins">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d7704711-68b7-4440-aa9c-5b3a1406a295" name="Parts">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c6c05989-85f5-4c86-96f8-2cc6adbb3712" name="Patients">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d7f9992b-5a01-4b06-9cd5-1eb69d50db7b" name="Pencils">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="6b4f3ae7-d7b5-4c86-9151-51bf013ffff8" name="People">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="74955ed6-4c94-4952-b11d-08e9cc5b44e2" name="Philosophers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9b2a7e5b-4f32-4902-8d85-52eac87f19c9" name="Pies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c62f540b-9645-49b9-89ba-bd01bfdd52a8" name="Pigs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5f30ee5a-4bc6-445f-9e46-534243268d71" name="Pillows">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="90d118cf-0ed8-463c-b481-6358a88217b5" name="Pilots">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e5570b3e-ec55-4855-a587-ec24784cdf9f" name="Pizza">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="15332d27-6444-4e2b-8331-86bba16c5ab7" name="Plastic Bottles">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="72e05151-ca1e-46c5-9794-e0028626a696" name="Plates">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="57dbe070-c8b5-48f5-96ea-8d8a094e460c" name="Poems">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1689aa95-1a02-44fa-b5db-149d06a2375f" name="Points">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="fc67280d-2e46-489c-a8ed-d6e753c2a463" name="Poisons">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7a4d5d62-99a7-41cf-80f9-2757e0b23a33" name="Politicians">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9a7b2d23-8787-41b2-b8ea-4385dfc49a3c" name="Positions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="22dfdeae-f966-4547-a318-f327c25165ef" name="Postdocs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7dfa4a97-23d8-4751-99a9-c08e85327fd6" name="Priests">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="34a2d093-4498-459d-8268-07217d30b48e" name="Principals">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8f22b557-a457-4824-bc0d-ca7bb083b10a" name="Prisons">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="39ce5e8b-18bc-44ba-8fe7-5a4fc9d1c4d4" name="Programmers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="640dc69c-64d1-4b77-a050-7b44638e950c" name="Projects">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="59072e6c-e079-4d1b-815d-58a278206b40" name="Puddles Of Blood">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="592b64e0-a73f-44a0-a7c1-08454112682a" name="Puzzles">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1533ffc3-1bd7-4d9e-a962-4884c0c173cf" name="Pyramids">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="fc2e45fb-422d-45c1-87c3-b49e74da5a57" name="Radioactive Particles">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3f4ad543-90c2-4ace-b82b-a854062e7eaf" name="Rain Clouds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7256e1e5-6319-413b-86ee-869fa252ac1d" name="Rainbows">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="79abff7e-d3b3-4e03-99e2-3c43dde4442d" name="Rains">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8ebfd531-1aa1-406c-86b5-5040079fc4c8" name="Rays Of Sunlight">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="dd697274-d9b5-419c-8b55-089220a7601e" name="Records">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2e4cdd0a-c0f7-4456-8426-8163f43e04f5" name="Relations">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="85874ee7-f2b6-4c53-87b3-99f8ae3d9894" name="Repairs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d60fd7d9-a7db-4709-8d8b-80aab7599a9b" name="Rhymes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="385abab3-e0fb-450e-bfd8-f44f220816f0" name="Risks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8d66bc8a-fa87-48f2-8a63-cf9928e144f3" name="Roads">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="0d2514e6-755a-4ce4-8715-21f7f324ed08" name="Robes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5fbb01b7-7dc5-49e4-833f-c214052805b3" name="Rockets">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="9c9bafbb-9dde-4eec-b8c0-c78c9d288c57" name="Rocks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2887e89d-6d84-4ea5-ab4e-e74ff9baf6ec" name="Ropes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7b216401-3790-4921-8ec3-cba533c49954" name="Rugs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="e09ed096-c6c5-4c17-89cb-12c65619321e" name="Sages">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="170e4143-bd8b-4632-bf78-801fa00768c5" name="Salads">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ec7e95a7-b3c6-4e9f-8992-744cac9fd367" name="Saxophones">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="48dff923-7cb5-4a22-8c04-d2741f27df0f" name="Sciences">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="52e54a3d-10cd-4673-8f5f-4415ef3ba3f1" name="Screams">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="01f366d8-afb6-4072-bc00-df889366a30b" name="Seats">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="170216cc-478f-45ed-9f3b-59e7537654f9" name="Sheets Of Paper">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="0eeb61d9-f265-4f41-8334-8448bb204218" name="Shelves">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="453ece01-bb50-4d1c-81e7-b6055cee5727" name="Signs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="53b9b9a0-a171-43df-bb0d-041650cc0e7e" name="Sirens">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3bb96016-ac31-41db-96cd-9a007e7c552c" name="Skateboards">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8310c419-518d-4007-86c1-50074fe03c52" name="Slaves">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="b369ed87-0c40-4053-811e-a3103aa3454c" name="Sloths">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="45b1b663-5053-46e7-938b-ed0a25d8b65c" name="Slugs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="39ae3b27-31f3-45e2-a2d7-0b9b1a092d7e" name="Soldiers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1102337d-3299-4471-bbd3-c29ed9f47d4f" name="Songs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8b53d371-c32d-4532-af2d-8116cdf10112" name="Sorcerers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="68dcb9a1-43ef-4eea-848d-42dbbb7d9489" name="Spaghetti Noodles">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8faf65da-ae69-4a7e-906f-58932135209d" name="Speeches">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="220f5604-d332-43af-868e-1177d1f7c08f" name="Spiders">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7857cc18-242a-4a6c-a205-bb5d6d056d4c" name="Spies">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c9f0f8f3-8cfd-4d60-bd87-f5e71906fe09" name="Sponges">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="68ee0773-e593-4359-ac54-1fe8ae7d53f2" name="Stage Lights">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f19ae72a-77e1-440f-b3ba-86ff049157f7" name="Stalks of Corn">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="48b14923-d7ab-45de-915c-94a0f8e64b5d" name="Stars">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2a02ad5e-5c71-4fbe-af6b-ce636139f370" name="States Of Emergency">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bdc27a3a-67b6-4145-ab50-20db9ffe427f" name="Stations">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c8c5325f-c273-47cb-a6e5-859a5d6ae501" name="Sticks">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="93375e5c-5d74-4d99-af78-3d9043b05d01" name="Stones">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ed5cbf19-2f0e-4fc0-8398-0035907dda81" name="Stories">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="42b40d59-cd08-488e-bfc0-9de961697266" name="Storms">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c841be1b-54b9-4fcc-9855-9206e50860ef" name="Strawberries">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="380833b3-194f-4518-b4ee-1ff9973c5528" name="Streamers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c16e1e9e-d33a-4cb1-91a4-18cf5a9241d0" name="Suds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="301a3ea4-65a9-42b8-a40f-f6b074824fcd" name="Summers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="47e101fb-df0a-4931-8db7-a270feef49f8" name="Surgeons">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="55bee0a5-fee4-46f7-bcfa-613a2808118b" name="Swamps">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="fb333a47-6673-4e9a-9ce9-0fb069028e19" name="Swords">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="706526c2-4c88-4bfb-a1bb-673ecbea5b17" name="Tables">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2bcea5b4-5076-4642-99f2-1b252325b748" name="Tails">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="000288d7-3319-4070-9e34-15b2ec8e6551" name="Tamales">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="498dd506-9cd4-4a24-a5e2-172d4038914d" name="Tardigrades">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bf49d06a-9ee6-4e47-bea4-07f50275799b" name="Taxi Drivers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="82f87487-363b-466f-a61e-0f11e7bd33e4" name="Tea Leaves">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="cc523b8f-62a5-4134-8a65-3cfcb8a2936c" name="Teachers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="afbed70e-6d4d-46a6-a38d-1aa71002f468" name="Teams">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1a1f30b5-394d-4356-ad38-e63c7cbf8bf5" name="Tears">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="4dcb7977-781c-468c-9fd5-7e10762daa25" name="Terrorists">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="5ca45cf4-a279-4f12-962d-bf5255ce6ca9" name="Titan Arum Flowers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="30570035-cabb-4e40-a729-284e3690cafb" name="Tombs">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="087f31ba-96fe-47da-aebe-0a4a533126ba" name="Trains">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="df552bc4-938f-4cce-8774-a3083ee02556" name="Trees">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ecc62b9d-95cf-41c1-b23b-278024c3a553" name="Trials">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d4abb251-369b-4a7c-84b6-ffe743a9cf9c" name="Trips">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="3b32dceb-ca33-4647-82bb-72748b22a564" name="Tumors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="43dc6f05-6d17-4481-8951-4b1c512d6564" name="Tutors">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="cd556140-a1b5-4512-ad1d-eea6f739e218" name="Tuxedos">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="49df94ed-18a4-4810-8af6-7e9706a9d0b6" name="Unions">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="0188042d-c420-44a4-b0e7-48a458d526eb" name="Universes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="c29a66c2-8276-4ec3-975c-83fdc46b7a6e" name="Vaults">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f604b9ed-d4aa-44f6-a07e-1b376563b72d" name="Vegetables">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2c66c6c0-9754-4010-897a-14c703e67446" name="Video Games">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="42947b40-5a89-4061-9c08-63cf43a6abf8" name="Volcanoes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1115419f-b49d-4af7-846f-cb4a71add985" name="Votes">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7352427d-f7f4-4624-a92f-4bd41483777f" name="Waffles">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="57497ac0-6b67-4fb3-a7d2-940da08dde41" name="Wages">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f73f0c90-0ea2-4867-991e-9da018110a01" name="Waitress">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="ef14292d-0e4c-4b1f-9b27-891b62d23ce0" name="Walls">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="f4ce13e3-bab7-42c8-b4f3-d2dea7a6bc3a" name="Wars">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="d412c014-4706-46d4-b7f4-1e1e0652bc91" name="Water">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="18497cff-58dc-44e3-8eb2-ce16c049aaa6" name="Waterfalls">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="176c1bf8-eedc-4393-92a9-528619fe4ddd" name="Weeds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="12ac8b99-652b-49ac-8902-33b0525283c7" name="Whales">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="caffc742-3145-4117-9b16-b0817d0192d7" name="Windows">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="1ccae724-b085-453a-b52b-987389d5677d" name="Winds">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="8280a0ac-f5e6-4adc-8d32-219d510bf69c" name="Wolves">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="7140bafc-2d31-40c9-aa1b-ab02e837f958" name="Wooden Beams">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="bd218ef9-2266-42b8-90f7-f26468069a14" name="Workers">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="caece8f5-f66d-406d-a00e-868c4528fdd3" name="Worms">
+			<property name="Type" value="Subject"/>
+		</card>
+		<card id="2af7ff59-5936-489f-80eb-4dc419f65aca" name="Zoos">
+			<property name="Type" value="Subject"/>
+		</card>
+	</cards>
+</set>

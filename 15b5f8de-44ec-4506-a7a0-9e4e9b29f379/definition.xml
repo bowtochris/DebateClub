@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="Debate Club" id="15b5f8de-44ec-4506-a7a0-9e4e9b29f379" octgnVersion="3.1.70.0" version="0.0.0.1" 
+    markersize="25" xmlns:xsi="C:/Users/Me/Documents/My Games/DebateClub/15b5f8de-44ec-4506-a7a0-9e4e9b29f379" tags="" description="Debate Club" setsurl="" 
+	gameurl="C:/Users/Me/Documents/My Games/DebateClub/15b5f8de-44ec-4506-a7a0-9e4e9b29f379" authors="BowToChris" iconurl="https://avatars3.githubusercontent.com/u/10967483" scriptVersion="3.1.0.1">
+	<scripts>
+		<script src="scripts/actions.py" />
+	</scripts>
+	<events>
+		<event name="OnLoadDeck" action="loadDeckEvent"/>`
+		<event name="OnGameStart" action="gameStartEvent"/>`
+	</events>
+	<proxygen definitionsrc="proxy/proxydef.xml">
+	</proxygen>
+	<phases>
+		<phase name="Submission" icon="images/icon.jpg" />
+		<phase name="Prep I" icon="images/icon.jpg" />
+		<phase name="Constructive" icon="images/icon.jpg" />
+		<phase name="Prep II" icon="images/icon.jpg" />
+		<phase name="Destructive" icon="images/icon.jpg" />
+		<phase name="Prep III" icon="images/icon.jpg" />
+		<phase name="Rebuttal" icon="images/icon.jpg" />
+		<phase name="Final" icon="images/icon.jpg" />
+		<phase name="Judgment" icon="images/icon.jpg" />
+	</phases>
+	<documents>
+		<document name="Game Rules" icon="images/icon.jpg" src="documents/rules.pdf" />
+	</documents> 
+	<globalvariables>
+		<globalvariable name="judge" value="1"/>
+		<globalvariable name="debater1" value="1"/>
+		<globalvariable name="debater2" value="1"/>
+	</globalvariables>
+	<card back="cards/back.png" front="cards/front.png" width="64" height="88" cornerRadius="0">
+		<property name="Type" type="String" textKind="Tokens" />
+	</card>
+	<table name="Table" visibility="undefined" ordered="False" width="800" height="650" background="images/bg.png" backgroundStyle="uniformToFill">
+		<groupaction menu="Draw Prompt" shortcut="ctrl+P" default="True" execute="draw_prompt" />
+		<groupaction menu="Draw Subjects" shortcut="ctrl+S" default="True" execute="draw_subject" />
+		<groupaction menu="Next Judge" shortcut="ctrl+J" execute="nextjudge" />
+		<groupaction menu="Become Judge" execute="becomejudge" />
+		<groupaction menu="Who's Judge?" shortcut="ctrl+W" execute="whosjudge" />
+		<groupaction menu="Become Debater" shortcut="ctrl+D" execute="becomedebater" />
+		<groupaction menu="Who are the Debaters?" shortcut="ctrl+Q" execute="whosdebater" />
+        <cardaction menu="Submit" execute="submit" />
+        <cardaction menu="Discard" execute="discard" />
+	</table>
+	<player summary="Score:{#Score}">
+		<counter name="Score" icon="counters/score.png" />
+		<hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" icon="groups/hand.png"/>
+		<group name="Submissions" shortcut="ctrl+S" visibility="me" ordered="False" icon="groups/hand.png"/>
+	</player>
+	<shared>
+		<group name="PromptDeck" visibility="none" icon="groups/deck.png">
+		</group>
+		<group name="SubjectDeck" visibility="none" icon="groups/deck.png">
+		</group>
+		<group name="Discard" visibility="all" icon="groups/discardpile.png">
+		</group>
+	</shared>
+	<sharedDeck>
+		<section name="Prompt" group="PromptDeck" />
+		<section name="Subject" group="SubjectDeck" />
+		<section name="Discard" group="Discard" />
+	</sharedDeck>
+</game>
